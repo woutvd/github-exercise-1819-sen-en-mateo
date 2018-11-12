@@ -1,1 +1,1 @@
-# practice-repo
+# github-exercise
